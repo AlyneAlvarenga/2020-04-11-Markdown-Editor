@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/2020-04-11-Markdown-Editor/static/css/main.d0d485c7.chunk.css",
+    "main.js": "/2020-04-11-Markdown-Editor/static/js/main.8a3148b2.chunk.js",
+    "main.js.map": "/2020-04-11-Markdown-Editor/static/js/main.8a3148b2.chunk.js.map",
+    "runtime-main.js": "/2020-04-11-Markdown-Editor/static/js/runtime-main.e84c225b.js",
+    "runtime-main.js.map": "/2020-04-11-Markdown-Editor/static/js/runtime-main.e84c225b.js.map",
+    "static/css/2.56a1fa8e.chunk.css": "/2020-04-11-Markdown-Editor/static/css/2.56a1fa8e.chunk.css",
+    "static/js/2.ad0d3166.chunk.js": "/2020-04-11-Markdown-Editor/static/js/2.ad0d3166.chunk.js",
+    "static/js/2.ad0d3166.chunk.js.map": "/2020-04-11-Markdown-Editor/static/js/2.ad0d3166.chunk.js.map",
+    "index.html": "/2020-04-11-Markdown-Editor/index.html",
+    "precache-manifest.9e98168ddd6ffa664a5f1892234cf658.js": "/2020-04-11-Markdown-Editor/precache-manifest.9e98168ddd6ffa664a5f1892234cf658.js",
+    "service-worker.js": "/2020-04-11-Markdown-Editor/service-worker.js",
+    "static/css/2.56a1fa8e.chunk.css.map": "/2020-04-11-Markdown-Editor/static/css/2.56a1fa8e.chunk.css.map",
+    "static/css/main.d0d485c7.chunk.css.map": "/2020-04-11-Markdown-Editor/static/css/main.d0d485c7.chunk.css.map",
+    "static/js/2.ad0d3166.chunk.js.LICENSE.txt": "/2020-04-11-Markdown-Editor/static/js/2.ad0d3166.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e84c225b.js",
+    "static/css/2.56a1fa8e.chunk.css",
+    "static/js/2.ad0d3166.chunk.js",
+    "static/css/main.d0d485c7.chunk.css",
+    "static/js/main.8a3148b2.chunk.js"
+  ]
+}
