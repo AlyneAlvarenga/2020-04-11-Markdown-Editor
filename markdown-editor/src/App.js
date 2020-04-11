@@ -28,9 +28,6 @@ class App extends Component {
       sanitize: true,
       smartLists: true,
       smartypants: false,
-      // highlight: function (code) {
-      //   return hljs.highlightAuto(code).value
-      // }
     })
 
     const rawMarkup = marked(this.state.code, {sanitize: true});
@@ -45,6 +42,7 @@ class App extends Component {
     const options = {
       lineNumbers: true,
       mode: 'markdown',
+      viewportMargin: Infinity,
     }
 
     return (
